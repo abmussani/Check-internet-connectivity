@@ -20,7 +20,7 @@ AppleScript
 
 <b>How to run applescript file</b>
 
-1- Rename file "internet_connectivity_script.applescript" to "internet_connectivity_script.scpt". I have done this to do version controlling on applescript file.
-2- open Terminal (Application / Utility).
-3- In terminal, Navigate to directory where your script file is saved.
-4- Write command "osascript internet_connectivity_script.scpt"
+1- Rename file "internet_connectivity_script.applescript" to "internet_connectivity_script.scpt". I have done this to do version controlling on applescript file.<br/>
+2- open Terminal (Application / Utility).<br/>
+3- In terminal, Navigate to directory where your script file is saved.<br/>
+4- Write command "osascript internet_connectivity_script.scpt"<br/>
